@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "MicrocontrollerCommLibrary"
+		},
+		{
+			"path": "MicrocontrollerCommConsoleApp"
+		},
+		{
+			"path": "MicroCommLibTests"
+		}
+	],
+	"settings": {}
+}

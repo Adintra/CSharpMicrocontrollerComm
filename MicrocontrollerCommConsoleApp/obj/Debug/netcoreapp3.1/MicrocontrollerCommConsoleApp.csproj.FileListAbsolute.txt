@@ -1,0 +1,13 @@
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.exe
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.deps.json
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.runtimeconfig.json
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.runtimeconfig.dev.json
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\bin\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.pdb
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.csprojAssemblyReference.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.AssemblyInfo.cs
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.pdb
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommConsoleApp\obj\Debug\netcoreapp3.1\MicrocontrollerCommConsoleApp.genruntimeconfig.cache
