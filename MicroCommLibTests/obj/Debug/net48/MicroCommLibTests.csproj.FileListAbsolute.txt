@@ -1,0 +1,17 @@
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.abstractions.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.runner.visualstudio.testadapter.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.runner.reporters.net452.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.runner.utility.net452.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\MicroCommLibTests.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\MicroCommLibTests.pdb
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.assert.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.core.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\xunit.execution.desktop.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.csprojAssemblyReference.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.AssemblyInfoInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.AssemblyInfo.cs
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.csproj.CoreCompileInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.csproj.CopyComplete
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.pdb
