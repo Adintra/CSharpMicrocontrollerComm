@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B4mB8HhKfXhjKYpPMz97eIv5nN96clyPIgKCl68Yz0eccqrHW2w/e4os4rGnJHt3+kltsIWtGR0VwDdJnJQXIw==",
+  "dgSpecHash": "3KrsMSWSjWvj0/07xitMp25ZtHWWoFzGha9dZKTCahII5/qN7/9g+tY6JTQS3PwovMRdGv7U7zOmdPBuGKjxsw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aworr\\Documents\\Programming\\C#\\CSharpMicrocontrollerComm\\MicrocontrollerCommLibrary\\MicrocontrollerCommLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aworr\\.nuget\\packages\\inthehand.net.bluetooth\\4.0.5\\inthehand.net.bluetooth.4.0.5.nupkg.sha512",
+    "C:\\Users\\aworr\\.nuget\\packages\\msbuild.sdk.extras\\2.0.54\\msbuild.sdk.extras.2.0.54.nupkg.sha512"
+  ],
   "logs": []
 }

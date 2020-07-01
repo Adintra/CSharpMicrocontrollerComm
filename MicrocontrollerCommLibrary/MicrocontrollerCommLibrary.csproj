@@ -4,4 +4,8 @@
     <TargetFramework>net48</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="InTheHand.Net.Bluetooth" Version="4.0.5" />
+  </ItemGroup>
+
 </Project>
