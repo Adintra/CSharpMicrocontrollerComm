@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BUg/RgaKbMjerOm7IqFx7ZFDqhOvj/eQfDmvTB0RHt1T1auHLew7QWyerMpXnNfNsfTVu9ykfwNRmKPXH0bDOQ==",
+  "dgSpecHash": "B4mB8HhKfXhjKYpPMz97eIv5nN96clyPIgKCl68Yz0eccqrHW2w/e4os4rGnJHt3+kltsIWtGR0VwDdJnJQXIw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aworr\\Documents\\Programming\\C#\\CSharpMicrocontrollerComm\\MicrocontrollerCommLibrary\\MicrocontrollerCommLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\aworr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\aworr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

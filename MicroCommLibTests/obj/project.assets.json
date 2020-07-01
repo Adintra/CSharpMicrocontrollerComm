@@ -107,6 +107,16 @@
         "build": {
           "build/net20/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MicrocontrollerCommLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/MicrocontrollerCommLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicrocontrollerCommLibrary.dll": {}
+        }
       }
     }
   },
@@ -337,10 +347,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MicrocontrollerCommLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MicrocontrollerCommLibrary/MicrocontrollerCommLibrary.csproj",
+      "msbuildProject": "../MicrocontrollerCommLibrary/MicrocontrollerCommLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8": [
+      "MicrocontrollerCommLibrary >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -372,7 +388,11 @@
       },
       "frameworks": {
         "net48": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aworr\\Documents\\Programming\\C#\\CSharpMicrocontrollerComm\\MicrocontrollerCommLibrary\\MicrocontrollerCommLibrary.csproj": {
+              "projectPath": "C:\\Users\\aworr\\Documents\\Programming\\C#\\CSharpMicrocontrollerComm\\MicrocontrollerCommLibrary\\MicrocontrollerCommLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

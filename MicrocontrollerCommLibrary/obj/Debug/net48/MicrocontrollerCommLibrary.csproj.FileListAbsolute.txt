@@ -1,0 +1,8 @@
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\bin\Debug\net48\MicrocontrollerCommLibrary.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\bin\Debug\net48\MicrocontrollerCommLibrary.pdb
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.csprojAssemblyReference.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.AssemblyInfoInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.AssemblyInfo.cs
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicrocontrollerCommLibrary\obj\Debug\net48\MicrocontrollerCommLibrary.pdb

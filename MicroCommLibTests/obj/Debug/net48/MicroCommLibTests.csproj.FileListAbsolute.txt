@@ -15,3 +15,5 @@ C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTe
 C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.csproj.CopyComplete
 C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.dll
 C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\obj\Debug\net48\MicroCommLibTests.pdb
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\MicrocontrollerCommLibrary.dll
+C:\Users\aworr\Documents\Programming\C#\CSharpMicrocontrollerComm\MicroCommLibTests\bin\Debug\net48\MicrocontrollerCommLibrary.pdb

@@ -2,7 +2,7 @@
 
 namespace MicrocontrollerCommLibrary
 {
-    public class Class1
+    public class BluetoothStream
     {
     }
 }
